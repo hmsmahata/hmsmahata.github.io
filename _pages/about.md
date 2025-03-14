@@ -14,7 +14,9 @@ Before joining the Computational Mathematics group, I was a postdoc under the me
 My research interests lie broadly in both theory and numerical analysis of Partial Differential Equations (PDEs). 
 
 PDEs: Fractional differential and fractional integro-differential equations; Mixed-dimensional problems.
+
 Theoretical study: Well-posedness (Existence, uniqueness, and stability results for the solutions)
+
 Numerical aspects: Convergence analysis of the discrete solutions (FEMs, CutFEMs).
 
      
