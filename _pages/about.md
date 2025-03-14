@@ -7,7 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Kempe postdoctoral fellow in the Computational Mathematics research group at Umeå University, Sweden. I am working on cut finite element methods on fractured domains closely with Associate Prof. Karl Larsson. 
+
+Before joining the Computational Mathematics group, I was a postdoc under the mentorship of Prof. Neela Nataraj at the Indian Institute of Technology (IIT) Bombay, India. Before that, I was a PhD student under the supervision of Prof. Rajen Kumar Sinha at IIT Guwahati, India.
+
+My research interests lie broadly in both theory and numerical analysis of Partial Differential Equations (PDEs). 
+
+     PDEs: Fractional differential and fractional integro-differential equations; Mixed-dimensional problems.
+     Theoretical study: Well-posedness (Existence, uniqueness, and stability results for the solutions)
+     Numerical aspects: Convergence analysis of the discrete solutions (FEMs, CutFEMs).
+
+     
+
+
+
+
 
 A data-driven personal website
 ======
