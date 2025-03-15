@@ -11,7 +11,7 @@ I am a Kempe postdoctoral fellow in the Computational Mathematics research group
 
 Before joining the Computational Mathematics group, I was a postdoc under the mentorship of Prof. Neela Nataraj at the Indian Institute of Technology (IIT) Bombay, India. Before that, I was a PhD student under the supervision of Prof. Rajen Kumar Sinha at IIT Guwahati, India.
 
-My research interests lie broadly in both theory and numerical analysis of Partial Differential Equations (PDEs). PDEs: Fractional differential and fractional integro-differential equations; Mixed-dimensional problems. Theoretical study: Well-posedness (Existence, uniqueness, and stability results for the solutions). Numerical aspects: Convergence analysis of the discrete solutions (FEMs, CutFEMs).
+My research interests lie broadly in both theory and numerical analysis of Partial Differential Equations (PDEs). PDEs: Fractional differential and fractional integro-differential equations; Mixed-dimensional problems. Theoretical study: Well-posedness (Existence, uniqueness, and stability results for the solutions). Numerical aspects: Convergence analysis of the discrete solutions (Standard and Nonstandard FEMs, CutFEMs).
 
      
 
