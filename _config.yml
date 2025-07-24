@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Shantiram Mahata's homepage
 description: I am a postdoc at Umea University
-use_math: true
+markdown: kramdown
