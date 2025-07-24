@@ -13,7 +13,7 @@ The weak formulation of the above BVP is given by: find $u \in H^1_0(\Omega)$ su
 
 $$
 \begin{equation}
-  \int_\Omega \nabla u \cdot \nabla v \\, dx = \int_\Omega f v \\, dx 
+  \int_\Omega \nabla u \cdot \nabla v \, dx = \int_\Omega f v \, dx 
 \end{equation}
 $$
 
