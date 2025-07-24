@@ -1,3 +1,3 @@
-# Welcome to My personal website
+# Welcome to my personal website
 
-Hello my name is Shantiram Mahata
+Hello my name is Shantiram Mahata. Here is my [CV](./cv).
