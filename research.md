@@ -1,7 +1,3 @@
----
-use_math: true
----
-
 # Research
 
 My research interests are in the field of numerical analysis, in particular, the finite element method. Here is an example: Let us consider the Laplace's equation
