@@ -9,7 +9,7 @@ u &=& 0 \quad  \text{on  } \partial\Omega
 \end{eqnarray}
 $$
 
-The weak formulation of the above BVP is given by: find \$u \in H^1_0(\Omega)\$ such that
+The weak formulation of the above BVP is given by: find \\(u \in H^1_0(\Omega)\\) such that
 
 $$
 \begin{equation}
@@ -17,4 +17,4 @@ $$
 \end{equation}
 $$
 
-for all \$v \in H^1_0(\Omega)\$.
+for all \\(v \in H^1_0(\Omega)\\).
