@@ -7,20 +7,20 @@ I am a postdoctoral fellow in the Computational Mathematics research group at Um
  <dl>
  <dt>Advanced Finite Element Methods (FEMs)</dt>
   
-  * <dd>Unfitted FEMs</dd>
+   <dd>* Unfitted FEMs</dd>
 
  <dt> Numerical Analysis of Fractional PDEs</dt>
   
-   * <dd>Standard and Nonstandard FEMs</dd>
+ <dd>* Standard and Nonstandard FEMs</dd>
 
  <dt>Techniques</dt> 
 
- * <dd>Nitsche's Methods, CutFEMs</dd> 
- * <dd>Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme</dd> 
+  <dd>* Nitsche's Methods, CutFEMs</dd> 
+  <dd>* Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme</dd> 
 
  <dt>Applications</dt> 
  
- * <dd>Interface Problems, Dynamics of Anomalous Diffusion Processes</dd> 
+  <dd>* Interface Problems, Dynamics of Anomalous Diffusion Processes</dd> 
 
 </dl>
 
