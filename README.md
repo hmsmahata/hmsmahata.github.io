@@ -1,8 +1,10 @@
-# About 
+ About 
+ ==========
 I am a postdoctoral fellow in the Computational Mathematics research group at Umeå University under the mentorship of [Prof. Karl Larsson](https://www.umu.se/personal/karl-larsson/?flik=publikationer). Previously, I was a postdoc under the mentorship of [Prof. Neela Nataraj](https://www.math.iitb.ac.in/~neela/) at IIT Bombay. I earned my PhD from IIT Guwahati under the supervision of [Prof. Rajen Kumar Sinha](https://www.iitg.ac.in/rajen/). 
 
 
-# Research Interests
+ Research Interests
+ =====================
 
   Advanced Finite Element Methods (FEMs)
   -------------------------------------
