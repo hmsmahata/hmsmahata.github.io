@@ -1,10 +1,10 @@
-# About 
+## [Research](research.md)  <br>   [Publications](publications.md)  &nbsp    [Teaching](teaching.md)       [CV](cv.md)         [Contact](contact.md)
+
+
+
+### About 
 
 I am a postdoctoral fellow in the Computational Mathematics research group at Umeå University under the mentorship of [Prof. Karl Larsson](https://www.umu.se/personal/karl-larsson/?flik=publikationer). Previously, I was a postdoc under the mentorship of [Prof. Neela Nataraj](https://www.math.iitb.ac.in/~neela/) at IIT Bombay. I earned my PhD from IIT Guwahati under the supervision of [Prof. Rajen Kumar Sinha](https://www.iitg.ac.in/rajen/). 
-
-
-## [Research](research.md)     [CV](cv.md)
-
 
 # Research Interests
  <dl>
