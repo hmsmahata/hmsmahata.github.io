@@ -1,4 +1,4 @@
-## [Research](research.md)  <br>   [Publications](publications.md)  &nbsp    [Teaching](teaching.md)       [CV](cv.md)         [Contact](contact.md)
+#### [Research](research.md)  &nbsp;&nbsp;   [Publications](publications.md)  &nbsp;&nbsp;    [Teaching](teaching.md)  &nbsp;&nbsp;     [CV](cv.md)  &nbsp;&nbsp;    [Contact](contact.md)
 
 
 
