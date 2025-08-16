@@ -8,8 +8,10 @@ I am a postdoctoral fellow in the Computational Mathematics research group at Um
 
 
 &nbsp;
-**Email**: shantiram. math (at) gmail.com, shantiram. mahata (at) umu.se
+**Email**: shantiram. math (at) gmail.com; shantiram. mahata (at) umu.se
+
 **Mailing Address**: Department of Mathematics and Mathematical Statistics, Umeå Universitet, 901 87 Umeå, Sweden
+
 **Office Address**: MIT-huset, Plan 2, Matematik och Matematisk Statistik, UMIT, MIT.A.230
 
 
