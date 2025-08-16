@@ -1,4 +1,25 @@
-# Research
+# Research Interests
+ <dl>
+ <dt>Advanced Finite Element Methods (FEMs)</dt>
+  
+   <dd> Unfitted FEMs</dd>
+
+ <dt> Numerical Analysis of Fractional PDEs</dt>
+  
+ <dd> Standard and Nonstandard FEMs</dd>
+
+ <dt>Techniques</dt> 
+
+  <dd> Nitsche's Methods, CutFEMs</dd> 
+  <dd> Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme</dd> 
+
+ <dt>Applications</dt> 
+ 
+  <dd> Interface Problems, Dynamics of Anomalous Diffusion Processes</dd> 
+
+</dl>
+
+
 
 My research interests are in the field of numerical analysis, in particular, the finite element method. Here is an example: Let us consider the Laplace's equation
 
