@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: &nbsp; &nbsp; Home
+title:            Home
 logo: https://avatars.githubusercontent.com/u/111852870?v=4
 
-description: &nbsp; Postdoc, Umea University 
+description:    Postdoc, Umea University 
 markdown: kramdown
 mathjax: true
