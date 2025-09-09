@@ -1,16 +1,16 @@
 # Research Interests
 
-- Advanced Finite Element Methods (FEMs)
+- **Advanced Finite Element Methods (FEMs)**
    - Unfitted FEMs
      
-- Numerical Analysis of Fractional PDEs
+- **Numerical Analysis of Fractional PDEs**
    - Standard and Nonstandard FEMs
   
-- Techniques
+- **Techniques**
    - Nitsche's Methods, CutFEMs
    - Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme
 
-- Applications
+- **Applications**
    - Interface Problems
    - Dynamics of Anomalous Diffusion Processes
 
