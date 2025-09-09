@@ -8,7 +8,7 @@
   
 - **Techniques**
    - Nitsche's Methods, CutFEMs
-   - Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme
+   - Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, and L1 scheme
 
 - **Applications**
    - Interface Problems
