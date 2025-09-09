@@ -1,4 +1,25 @@
 # Research Interests
+
+- Advanced Finite Element Methods (FEMs)
+   - Unfitted FEMs
+     
+- Numerical Analysis of Fractional PDEs
+   - Standard and Nonstandard FEMs
+  
+- Techniques
+   - Nitsche's Methods, CutFEMs
+   - Eigenfunction Expansion, Operator Theoretic Approach, Energy Arguments, Convolution Quadratures, L1 scheme
+
+- Applications
+   - Interface Problems
+   - Dynamics of Anomalous Diffusion Processes
+
+
+
+
+
+
+<!--
  <dl>
  <dt>Advanced Finite Element Methods (FEMs)</dt>
   
@@ -18,9 +39,11 @@
   <dd> Interface Problems, Dynamics of Anomalous Diffusion Processes</dd> 
 
 </dl>
+-->
 
 
 
+<!--
 My research interests are in the field of numerical analysis, in particular, the finite element method. Here is an example: Let us consider the Laplace's equation
 
 $$
@@ -39,3 +62,4 @@ $$
 $$
 
 for all \\(v \in H^1_0(\Omega)\\).
+-->
