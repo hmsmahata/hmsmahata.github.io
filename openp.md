@@ -1,5 +1,5 @@
 ### Numerical Analysis
-- FEM for Convection-Dominated and Incompressible Flow Problems **[PDF](https://link.springer.com/article/10.1007/s00791-018-0290-5)**
+- FEM for Convection-Dominated and Incompressible Flow Problems **[PDF](https://link.springer.com/article/10.1007/s00791-018-0290-5)** by **[V. John](https://www.wias-berlin.de/people/john/)**, **[P. Knobloch](https://www.karlin.mff.cuni.cz/~knobloch/)**, and **[J. Novo](https://www.uam.es/ciencias/facultad/departamentos/matematicas/listado-pdi/julia-novo-martin/f1-1606971996790)**
 
 ### Analysis and PDEs
 
