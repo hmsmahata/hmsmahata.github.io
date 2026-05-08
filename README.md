@@ -13,6 +13,8 @@ I am a postdoctoral fellow in the Department of Mathematics and Physics at [Linn
 
 
 <!--
+REMOVE RESEARCH; PUT THOSE (and ) STUFFs in the CV Section; In the CV job style.
+
 I am a postdoctoral fellow in the Department of Mathematics and Physics at Linnaeus University working with [Prof. Christian Engström](https://lnu.se/personal/christian.engstrom/). Before that, I was a postdoctoral fellow in the Computational Mathematics research group at Umeå University under the mentorship of [Prof. Karl Larsson](https://www.umu.se/personal/karl-larsson/?flik=publikationer). Previously, I was a postdoc under the mentorship of [Prof. Neela Nataraj](https://www.math.iitb.ac.in/~neela/) at IIT Bombay. I earned my PhD from IIT Guwahati under the supervision of [Prof. Rajen Kumar Sinha](https://www.iitg.ac.in/rajen/). I am a permanent member of the [Indian Mathematical Society (IMS)](https://indianmathsoc.org/) and the [Swedish Mathematical Society (SMS)](https://www.swe-math-soc.se/).  
 -->
 
