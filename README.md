@@ -8,7 +8,7 @@ I am a postdoctoral fellow in the Department of Mathematics and Physics at [Linn
 
 **Email**: shantiram.math (at) gmail.com; shantiram.mahata (at) lnu.se
 
-**Mailing Address**: Department of Mathematics and Physics, Linnaeus University, 352 52 Växjö, Sweden
+**Address**: Department of Mathematics and Physics, Linnaeus University, 352 52 Växjö, Sweden
 
 
 
