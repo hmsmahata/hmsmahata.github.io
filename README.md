@@ -4,7 +4,7 @@
 &nbsp;
 ## Shantiram Mahata, [Linnaeus University](https://lnu.se/en/meet-linnaeus-university/Organisation/faculty-of-technology/meet-the-faculty-of-technology/mathematics/)
 
-I am a postdoctoral fellow in the Department of Mathematics and Physics at [Linnaeus University](https://lnu.se/en/meet-linnaeus-university/Organisation/faculty-of-technology/meet-the-faculty-of-technology/mathematics/). 
+Postdoctoral fellow, [Linnaeus University](https://lnu.se/en/meet-linnaeus-university/Organisation/faculty-of-technology/meet-the-faculty-of-technology/mathematics/). 
 
 **Email**: shantiram.math (at) gmail.com; shantiram.mahata (at) lnu.se
 
