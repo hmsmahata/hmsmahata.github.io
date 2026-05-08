@@ -6,10 +6,10 @@
 ## Publications
 
 ### Preprints 
-1. *Error Estimates for Nitsche’s Method on Approximate Domains*, _Submitted_, [pdf](https://arxiv.org/pdf/2604.00861).
+1. *Error Estimates for Nitsche’s Method on Approximate Domains*, _Submitted_, [arXiv](https://arxiv.org/pdf/2604.00861).
 (with M. G. Larson & K. Larsson)
 
-2. *Cut Finite Element Methods for Convection-Diffusion in Mixed-Dimensional Domains*, _Submitted_, [pdf](https://arxiv.org/pdf/2604.07162).
+2. *Cut Finite Element Methods for Convection-Diffusion in Mixed-Dimensional Domains*, _Submitted_, [arXiv](https://arxiv.org/pdf/2604.07162).
 (with E. Burman, P. Hansbo, M. G. Larson, & K. Larsson)
 
 
